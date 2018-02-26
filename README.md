@@ -10,4 +10,4 @@ Vamos a crear un enunciado donde pediremos distintos puntos que tendremos que bu
 
 - Preguntaremos por teclado el id que queramos y devolveremos el Balazo de la noticia.
 
-- 
+- En el ejercicio libre vamos a buscar todas las entradas que tengan una imagen con extension jpg y mostraremos el titulo. Si la noticias tiene un número de páginas las motraremos si no tiene tendra que aparecer en pantalla "Esta noticia es de una sola página."
